@@ -1,5 +1,3 @@
-# lineNotifyPackage
-
 ### .env
 ```
 LINE_NOTIFY_CLIENT_ID=
